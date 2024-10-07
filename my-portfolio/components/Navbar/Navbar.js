@@ -19,13 +19,15 @@ export const changeText = () => {
 
 export const Navbar = () => `
 <nav>
-<h2>Peter Parker</h2>
+<img src="public/icons/apple_icon.png">
+<h2>Apple</h2>
+
 <ul>
     <li>
-        <a href="#" id="homelink">Home</a>
+        <a href="#" id="homelink">Inicio</a>
     </li>
     <li>
-        <a href="#" id="projectslink">Projects</a>
+        <a href="#" id="projectslink">iPhone</a>
     </li>
     <li>
         <button id="themeBtn">☀</button>
